@@ -25,6 +25,4 @@ public class Bee {
         return weight;
     }
 
-    private printBeeDetails
-
 }
